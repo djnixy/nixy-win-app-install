@@ -24,4 +24,4 @@ googledrive `
 putty `
 irfanview `
 irfanviewplugins `
-cpuz
+cpu-z
