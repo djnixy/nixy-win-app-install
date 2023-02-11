@@ -5,29 +5,22 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install -y `
 firefox `
 googlechrome `
-opera-gx `
-opera
-
-#MULTIMEDIA
+opera-gx
 
 #DEVELOPMENT TOOLS
 choco install -y
 microsoft-windows-terminal `
 git `
 docker-desktop `
-lens `
 notepadplusplus `
 wsl2 `
 vscode `
 terraformer `
 terraform `
-bitwarden 
-
-#CLOUD TOOLS
-choco install -y awscli `
+bitwarden `
+awscli `
 gcloudsdk `
-azure-cli
-choco install -y 
+azure-cli `
 googledrive `
 putty `
 irfanview `
