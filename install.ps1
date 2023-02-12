@@ -25,4 +25,7 @@ googledrive `
 putty `
 irfanview `
 irfanviewplugins `
-cpu-z
+cpu-z `
+coretemp `
+linkshellextension `
+powertoys 
