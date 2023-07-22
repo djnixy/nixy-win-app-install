@@ -22,7 +22,6 @@ awscli `
 gcloudsdk `
 azure-cli `
 googledrive `
-putty `
 irfanview `
 irfanviewplugins `
 cpu-z `
