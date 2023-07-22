@@ -8,7 +8,7 @@ googlechrome `
 opera-gx
 
 #DEVELOPMENT TOOLS
-choco install -y
+choco install -y `
 microsoft-windows-terminal `
 git `
 docker-desktop `
@@ -28,4 +28,7 @@ irfanviewplugins `
 cpu-z `
 coretemp `
 linkshellextension `
-powertoys 
+powertoys `
+openvpn-connect `
+zerotier-one `
+dbeaver 
