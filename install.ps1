@@ -22,8 +22,6 @@ awscli `
 gcloudsdk `
 azure-cli `
 googledrive `
-irfanview `
-irfanviewplugins `
 cpu-z `
 coretemp `
 linkshellextension `
@@ -31,3 +29,9 @@ powertoys `
 openvpn-connect `
 zerotier-one `
 dbeaver 
+
+choco install -y `
+discord `
+potplayer `
+irfanview `
+irfanviewplugins
